@@ -1,0 +1,2 @@
+# DesignPatternCourse
+跟着Geely老师学习设计模式，并通过代码学习总结。笔记记录于另一个仓库MyDoc下的设计模式目录下。
